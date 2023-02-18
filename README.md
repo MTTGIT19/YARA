@@ -1,2 +1,2 @@
 # YARA
-Custom YARA rules
+Custom YARA rules coming soon... 
